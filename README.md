@@ -62,9 +62,11 @@ The solution was tested by uploading sample text files to the S3 bucket. Each up
 
 ## Screenshots
 
-<img width="1088" height="220" alt="image" src="https://github.com/user-attachments/assets/f9f58650-95e2-40df-b000-6822bc51cc2d" />
+<img width="1415" height="396" alt="image" src="https://github.com/user-attachments/assets/57422891-224f-4bd3-a464-1fb50df04017" />
 
 * **Amazon S3 Bucket** – Shows the S3 bucket configured to store uploaded text files.
+
+<img width="1398" height="474" alt="image" src="https://github.com/user-attachments/assets/bb17a999-9414-4ce1-8671-b433481138fa" />
 
 * **Amazon SNS Topic** – Shows the SNS topic and confirmed email subscription.
 
