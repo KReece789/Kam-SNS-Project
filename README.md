@@ -124,7 +124,3 @@ Possible future improvements could include:
 * Extending the Lambda function to support additional file types beyond plain text
 * Adding CloudWatch Alarms to alert on function errors or failures
 * Storing word count results in a DynamoDB table for historical tracking in addition to the email notification
-
----
-
-**Note:** This repository does not contain any AWS account IDs, credentials, access keys, or lab-specific resource ARNs. Replace any placeholder values in the code with your own resource identifiers before deploying.
