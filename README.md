@@ -70,13 +70,16 @@ The solution was tested by uploading sample text files to the S3 bucket. Each up
 
 * **Amazon SNS Topic** – Shows the SNS topic and confirmed email subscription.
 
-<img width="1657" height="387" alt="image" src="https://github.com/user-attachments/assets/e091e4c5-792b-4720-930d-2cc3669cdce8" />
 <img width="874" height="593" alt="image" src="https://github.com/user-attachments/assets/05bdcdc1-7ad2-473d-82f4-2fe817b01b8b" />
 <img width="441" height="102" alt="image" src="https://github.com/user-attachments/assets/55ffe429-4751-49ea-9f35-6755c603b124" />
 
 * **AWS Lambda Function** – Shows the Lambda function configuration and deployed code.
 
+<img width="1657" height="387" alt="image" src="https://github.com/user-attachments/assets/e091e4c5-792b-4720-930d-2cc3669cdce8" />
+
 * **S3 Trigger Configuration** – Shows the S3 event trigger attached to the Lambda function.
+
+<img width="1444" height="217" alt="image" src="https://github.com/user-attachments/assets/71fdc4a9-a58f-4dc0-9ee5-679ff70d3d6e" />
 
 * **CloudWatch Logs** – Shows a successful function invocation and execution details.
 
