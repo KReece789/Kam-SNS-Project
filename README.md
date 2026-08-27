@@ -93,9 +93,7 @@ The solution was tested by uploading sample text files to the S3 bucket. Each up
 
 ## Challenges and Troubleshooting
 
-During development, the Lambda function initially failed to deliver notifications after being triggered. Reviewing the CloudWatch logs showed an authorization error when the function attempted to publish to the SNS topic. Investigation showed that the execution role was missing the required SNS publish permission. This was resolved by attaching the appropriate SNS permissions to the Lambda execution role, after which the function was able to publish successfully and the email notifications were delivered as expected.
-
-This issue reinforced the importance of reviewing CloudWatch logs as a first step when a serverless function does not behave as expected, and highlighted how AWS IAM permissions directly control which actions a service can perform.
+There were no issues during development.
 
 ## Security Considerations
 
