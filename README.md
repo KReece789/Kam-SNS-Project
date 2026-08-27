@@ -83,6 +83,8 @@ The solution was tested by uploading sample text files to the S3 bucket. Each up
 
 * **CloudWatch Logs** – Shows a successful function invocation and execution details.
 
+<img width="816" height="36" alt="image" src="https://github.com/user-attachments/assets/26fb26c3-57e0-4ee7-aa32-47daf94a427a" />
+
 * **Uploaded File** – Shows a sample text file uploaded to the S3 bucket.
 
 <img width="1080" height="1227" alt="image" src="https://github.com/user-attachments/assets/a1257e53-6070-4cad-9813-a2aefbdc87de" />
