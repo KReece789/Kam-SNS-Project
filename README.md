@@ -78,6 +78,7 @@ The solution was tested by uploading sample text files to the S3 bucket. Each up
 * **Uploaded File** – Shows a sample text file uploaded to the S3 bucket.
 
 <img width="1080" height="1227" alt="image" src="https://github.com/user-attachments/assets/a1257e53-6070-4cad-9813-a2aefbdc87de" />
+
 * **Email Notification** – Shows the email received containing the word count result.
 
 ## Challenges and Troubleshooting
