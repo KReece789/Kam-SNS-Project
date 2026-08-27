@@ -62,8 +62,7 @@ The solution was tested by uploading sample text files to the S3 bucket. Each up
 
 ## Screenshots
 
-*Add screenshots to this section and update the descriptions below to match.*
-
+<img width="1088" height="220" alt="image" src="https://github.com/user-attachments/assets/f9f58650-95e2-40df-b000-6822bc51cc2d" />
 
 * **Amazon S3 Bucket** – Shows the S3 bucket configured to store uploaded text files.
 
