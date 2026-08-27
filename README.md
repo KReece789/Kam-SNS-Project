@@ -64,12 +64,20 @@ The solution was tested by uploading sample text files to the S3 bucket. Each up
 
 *Add screenshots to this section and update the descriptions below to match.*
 
+
 * **Amazon S3 Bucket** – Shows the S3 bucket configured to store uploaded text files.
+
 * **Amazon SNS Topic** – Shows the SNS topic and confirmed email subscription.
+
 * **AWS Lambda Function** – Shows the Lambda function configuration and deployed code.
+
 * **S3 Trigger Configuration** – Shows the S3 event trigger attached to the Lambda function.
+
 * **CloudWatch Logs** – Shows a successful function invocation and execution details.
+
 * **Uploaded File** – Shows a sample text file uploaded to the S3 bucket.
+
+<img width="1080" height="1227" alt="image" src="https://github.com/user-attachments/assets/a1257e53-6070-4cad-9813-a2aefbdc87de" />
 * **Email Notification** – Shows the email received containing the word count result.
 
 ## Challenges and Troubleshooting
